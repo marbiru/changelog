@@ -13,6 +13,7 @@ Personal Changelog
 
 ** 20 May 2015**
 + Started learning/using D3.js library
++ Gave up on that for now and used Google Charts instead
 
 **7 May 2015**
 + inserted background patterns in CSS (www.subtlepatterns.com)
