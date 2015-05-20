@@ -11,6 +11,9 @@ Personal Changelog
 
 ## full log
 
+** 20 May 2015**
++ Started learning/using D3.js library
+
 **7 May 2015**
 + inserted background patterns in CSS (www.subtlepatterns.com)
 
